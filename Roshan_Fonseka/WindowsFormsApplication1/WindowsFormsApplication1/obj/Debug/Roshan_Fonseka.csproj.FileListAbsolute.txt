@@ -1,0 +1,11 @@
+c:\users\dell\documents\visual studio 2012\Roshan_Fonseka\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\dell\documents\visual studio 2012\Roshan_Fonseka\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\dell\documents\visual studio 2012\Roshan_Fonseka\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\dell\documents\visual studio 2012\Roshan_Fonseka\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Roshan_Fonseka.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2012\Roshan_Fonseka\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Main.resources
+c:\users\dell\documents\visual studio 2012\Roshan_Fonseka\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2012\Roshan_Fonseka\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Roshan_Fonseka.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2012\Roshan_Fonseka\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\dell\documents\visual studio 2012\Roshan_Fonseka\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\dell\documents\visual studio 2012\Roshan_Fonseka\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Student_Details.resources
+c:\users\dell\documents\visual studio 2012\Roshan_Fonseka\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Student_Registration.resources
